@@ -1,0 +1,224 @@
+{
+    "project_name": "AI & Data Science Engineer Portfolio",
+    "project_description": "A professional portfolio website for an AI & Data Science Engineer, featuring a clean and modern design.",
+    "pages": [
+      {
+        "page_name": "Home",
+        "sections": [
+          {
+            "section_id": "hero",
+            "component_type": "Hero Section",
+            "content": {
+              "headline": "I'M AN AI & DATA SCIENCE ENGINEER",
+              "name": "YASMIN EHAB",
+              "bio": "Greetings, fellow innovators! I'm Yasmin Ehab, a passionate AI & Data Science Engineer focused on transforming complex data into intelligent, actionable solutions. Welcome to my portfolio.",
+              "profile_image": "WhatsApp Image 2025-08-23 at 23.47.11_478354cc.jpg",
+              "cta_buttons": [
+                { "text": "Download CV", "url": "YasminEhab_CV.pdf", "style": "primary" },
+                { "text": "View My Projects", "url": "#projects", "style": "secondary" }
+              ]
+            }
+          },
+          {
+            "section_id": "services",
+            "component_type": "Services Grid",
+            "content": {
+              "title": "My Expertise",
+              "services_list": [
+                {
+                  "icon": "Icon_for_Machine_Learning",
+                  "title": "Machine Learning",
+                  "description": "Building, training, and deploying advanced predictive models for various industries."
+                },
+                {
+                  "icon": "Icon_for_Data_Engineering",
+                  "title": "Data Engineering",
+                  "description": "Designing and implementing scalable data pipelines and robust data infrastructure."
+                },
+                {
+                  "icon": "Icon_for_NLP",
+                  "title": "Natural Language Processing (NLP)",
+                  "description": "Developing AI models to understand, analyze, and generate human language."
+                },
+                {
+                  "icon": "Icon_for_Computer_Vision",
+                  "title": "Computer Vision",
+                  "description": "Creating intelligent systems that can interpret and analyze visual information from the world."
+                },
+                {
+                  "icon": "Icon_for_Data_Analysis",
+                  "title": "Data Analysis & Visualization",
+                  "description": "Extracting meaningful insights from data and presenting them through interactive dashboards."
+                },
+                {
+                  "icon": "Icon_for_Cloud",
+                  "title": "Cloud Solutions",
+                  "description": "Deploying and managing data solutions on cloud platforms like AWS, Azure, and GCP."
+                }
+              ]
+            }
+          },
+          {
+            "section_id": "about",
+            "component_type": "About Section",
+            "content": {
+              "title": "About Me",
+              "description": "With a strong academic background in Intelligent Systems Engineering at the Faculty of Artificial Intelligence, and solid hands-on experience from the DEPI AI & Data Science track, I bring a comprehensive understanding of Artificial Intelligence and Data Science. I thrive on solving complex problems and am passionate about leveraging data to design innovative, intelligent solutions that drive business growth and efficiency.",
+              "education": [
+                { "year": "2023 - 2027", "degree": "B.Sc. in Intelligent Systems Engineering, Faculty of Artificial Intelligence", "institution": "University of Menofia" }
+              ],
+              "experience": [
+                {
+                  "title": "DEPI Internship",
+                  "company": "Ministry of Communications and Information Technology",
+                  "period": "2025 - Present",
+                  "description": "Participating in a comprehensive training track focused on Artificial Intelligence and Data Science using Microsoft technologies. Learning to build and deploy machine learning models on Microsoft Azure, and apply AI algorithms across multiple domains.",
+                  "certificate_url": "image.png",
+                  "linkedin_url": "https://www.linkedin.com/posts/yasmin--ehab_ai-datascience-machinelearning-activity-7336081840824299520-Ski1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJeG4YBhSSPow2m3dOfT9V07BOfJYr2htY"
+                },
+                {
+                  "title": "Creativa Innovation Hubs Internship",
+                  "company": "AMIT",
+                  "period": "Feb 2025",
+                  "description": "Completed 35-hour training with hands-on experience in building machine learning models, Explored real-world AI applications and data-driven problem solving, Strengthened foundational knowledge in AI and fostered continuous learning habits.",
+                  "certificate_url": "image2.png",
+                  "linkedin_url": "https://www.linkedin.com/posts/yasmin--ehab_artificialintelligence-machinelearning-ai-activity-7302631871408930816-xhtt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJeG4YBhSSPow2m3dOfT9V07BOfJYr2htY"
+                }
+              ],
+              "skills": [
+                { "name": "Python", "percentage": "95" },
+                { "name": "TensorFlow/PyTorch", "percentage": "92" },
+                { "name": "SQL/NoSQL", "percentage": "90" },
+                { "name": "Data Visualization", "percentage": "88" },
+                { "name": "Cloud Computing", "percentage": "85" },
+                { "name": "Big Data", "percentage": "80" },
+                { "name": "Pandas", "percentage": "95" },
+                { "name": "NumPy", "percentage": "95" },
+                { "name": "Matplotlib", "percentage": "95" },
+                { "name": "Seaborn", "percentage": "95" },
+                { "name": "Scikit-learn", "percentage": "95" },
+                { "name": "Streamlit", "percentage": "95" },
+                { "name": "Machine Learning", "percentage": "95" },
+                { "name": "Image Processing", "percentage": "95" }
+              ]
+            }
+          },
+          {
+            "section_id": "projects",
+            "component_type": "Projects Grid",
+            "content": {
+              "title": "My Latest Projects",
+              "filters": ["All", "Machine Learning", "Image Processing", "Data Analysis"],
+              "projects_list": [
+                {
+                  "image": "Image3.png",
+                  "title": "Digital Image Processing",
+                  "category": "Image Processing",
+                  "description": "For every operation, our GUI allows the user to upload an image, apply the technique, and visualize the result next to the original using subplot displays – making the transformations easy to observe and understand.",
+                  "url": "Image3.png",
+                  "linkedin_url": "https://www.linkedin.com/posts/yasmin--ehab_digitalimageprocessing-aistudents-computervision-activity-7337939080103559168-0a7r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJeG4YBhSSPow2m3dOfT9V07BOfJYr2htY"
+                },
+                {
+                  "image": "Screenshot 2025-09-05 021233.png",
+                  "title": "Laptop Recommendation System",
+                  "category": "Data Analysis",
+                  "description": "we worked as a team to build a Laptop Recommendation System using real-world data and a complete data science workflow — from raw data to insightful predictions",
+                  "url": "Screenshot 2025-09-05 021233.png",
+                  "linkedin_url": "https://www.linkedin.com/posts/yasmin--ehab_dataanalysis-machinelearning-python-activity-7339307903620640769-zNz9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJeG4YBhSSPow2m3dOfT9V07BOfJYr2htY"
+                },
+                {
+                  "image": "Screenshot 2025-09-05 193817.png",
+                  "title": "Machine Learning Workflow App.",
+                  "category": "Machine Learning",
+                  "description": "How to design and implement a general-purpose ML tool, Strengthened teamwork & collaboration on real-world ML workflows, Practical experience in data preprocessing, feature engineering, and model evaluation, Creating an interactive & user-friendly ML application with Streamlit.",
+                  "url": "Screenshot 2025-09-05 193817.png",
+                  "linkedin_url": "https://www.linkedin.com/posts/yasmin--ehab_machinelearning-datascience-python-activity-7366604798332157952-M4S9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJeG4YBhSSPow2m3dOfT9V07BOfJYr2htY"
+                }
+              ]
+            }
+          },
+          {
+            "section_id": "pricing",
+            "component_type": "Pricing Plans",
+            "content": {
+              "title": "Pricing & Packages",
+              "description": "Explore flexible packages designed to fit a wide range of needs, from small-scale projects to full-stack solutions.",
+              "plans_list": [
+                {
+                  "plan_name": "Consultation",
+                  "price": "$150 / Hour",
+                  "features": [
+                    "Project scope analysis",
+                    "Technology stack recommendation",
+                    "Problem-solving session"
+                  ],
+                  "button_text": "Book Now"
+                },
+                {
+                  "plan_name": "Project-Based",
+                  "price": "Custom Quote",
+                  "features": [
+                    "Full project development",
+                    "Customized AI/ML solution",
+                    "Deployment & Maintenance",
+                    "Ongoing support"
+                  ],
+                  "button_text": "Request a Quote"
+                }
+              ]
+            }
+          },
+          {
+            "section_id": "testimonials",
+            "component_type": "Testimonials Carousel",
+            "content": {
+              "title": "What My Clients Say",
+              "testimonials_list": [
+                {
+                  "text": "Working with Yasmin Ehab was a game-changer. Her expertise in AI brought our project to life and exceeded all expectations.",
+                  "client_name": "Amira Ahmed",
+                  "company_logo": "URL_TO_LOGO_1"
+                },
+                {
+                  "text": "The data insights provided were incredibly valuable and helped us make strategic decisions. Highly recommended!",
+                  "client_name": "Noor Ehab",
+                  "company_logo": "URL_TO_LOGO_2"
+                }
+              ]
+            }
+          },
+          {
+            "section_id": "contact",
+            "component_type": "Contact Section",
+            "content": {
+              "title": "Let's Build Something Great",
+              "description": "I'm always open to new opportunities and collaborations. Feel free to reach out and discuss your project.",
+              "contact_form": {
+                "fields": [
+                  { "label": "Full Name", "type": "text" },
+                  { "label": "Email Address", "type": "email" },
+                  { "label": "Your Message", "type": "textarea" }
+                ],
+                "button_text": "Send Message"
+              },
+              "contact_info": [
+                { "type": "Email", "value": "yasminehab997@gmail.com" },
+                { "type": "Phone", "value": "01017535034" }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "component_type": "Footer",
+      "content": {
+        "copyright_text": "© 2024 Yasmin Ehab. All Rights Reserved.",
+        "social_links": [
+          { "platform": "LinkedIn", "url": "http://www.linkedin.com/in/yasmin--ehab" },
+          { "platform": "GitHub", "url": "github.com/Yasmin-970" },
+          { "platform": "Twitter", "url": "URL_TO_YOUR_TWITTER" }
+        ]
+      }
+    }
+  }
